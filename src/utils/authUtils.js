@@ -1,7 +1,7 @@
 // Simulación de datos de usuario (Reemplazar con backend real)
 const users = [
-    { id: 1, username: 'doctor1', password: 'password1', role: 'doctor' },
-    { id: 2, username: 'admin1', password: 'password2', role: 'admin' },
+    { id: 1, username: 'doctor', password: 'password', role: 'doctor' },
+    { id: 2, username: 'admin', password: 'password', role: 'admin' },
 ];
 
 const STORAGE_KEY = 'user'
